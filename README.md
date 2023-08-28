@@ -55,14 +55,4 @@ The app should now be running at [http://localhost:3000](http://localhost:3000).
 - JavaScript
 - CSS
 
-## Contributing
 
-Contributions are welcome! If you find any issues or want to enhance the app, feel free to submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-```
-
-Remember to replace `<repository-url>` with the actual URL of your repository. You can also add more sections to the README file, such as troubleshooting, known issues, future enhancements, and so on, based on your project's requirements.
